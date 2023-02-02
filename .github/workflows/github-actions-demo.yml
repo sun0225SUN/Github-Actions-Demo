@@ -24,5 +24,6 @@ jobs:
           git config user.name test 
           git config user.email test@gmail.com 
           git add -A . 
-          git commit -m "新建test文件" 
+          git commit -m "新建test.txt文件" 
           git push 
+          
